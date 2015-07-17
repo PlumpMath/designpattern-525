@@ -17,7 +17,6 @@ public class Main {
         peopleNewsPaper.send();
         System.out.println();
         peopleNewsPaper.removeSubscriber(guchao);
-
         peopleNewsPaper.send();
     }
 }
